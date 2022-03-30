@@ -1,3 +1,5 @@
 # Basic Python-based Pipeline
 
-Read this:
+## Packages:
+- Django
+- Default Anadonda 3 packages
