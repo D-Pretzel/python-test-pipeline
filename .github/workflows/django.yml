@@ -25,9 +25,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         
-    - name: Move to the correct directory
+    - name: List Directory Files
       run: |
-        cd python-test-pipeline\echo
+        ls -a
         
     - name: Run Tests
       run: |
