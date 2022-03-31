@@ -27,7 +27,7 @@ jobs:
         
     - name: Move to the correct directory
       run: |
-        cd ../
+        cd python-test-pipeline/echo
         
     - name: Run Tests
       run: |
